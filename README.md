@@ -1,4 +1,1 @@
-effectivejava
-=============
-
-effectivejava用
+#学習用
